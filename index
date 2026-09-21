@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<title>CRISPY</title>
+
+<style>
+
+body{
+    font-family:Arial,sans-serif;
+    background:#111827;
+    color:white;
+    text-align:center;
+    padding-top:120px;
+}
+
+.card{
+    width:700px;
+    margin:auto;
+}
+
+button{
+    padding:15px 30px;
+    border:none;
+    border-radius:8px;
+    font-size:18px;
+    background:#0078D4;
+    color:white;
+    cursor:pointer;
+}
+
+</style>
+
+</head>
+
+<body>
+
+<div class="card">
+
+<h1>CRISPY</h1>
+
+<p>
+Smart Glasses Schulungsplattform
+</p>
+
+lektion1.html
+<button>Schulung starten</button>
+</a>
+
+</div>
+
+</body>
+</html>
